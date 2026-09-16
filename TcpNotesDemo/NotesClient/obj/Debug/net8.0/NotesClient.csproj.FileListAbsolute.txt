@@ -1,0 +1,14 @@
+/Users/liriohq/TcpNotesDemo/NotesClient/bin/Debug/net8.0/NotesClient
+/Users/liriohq/TcpNotesDemo/NotesClient/bin/Debug/net8.0/NotesClient.deps.json
+/Users/liriohq/TcpNotesDemo/NotesClient/bin/Debug/net8.0/NotesClient.runtimeconfig.json
+/Users/liriohq/TcpNotesDemo/NotesClient/bin/Debug/net8.0/NotesClient.dll
+/Users/liriohq/TcpNotesDemo/NotesClient/bin/Debug/net8.0/NotesClient.pdb
+/Users/liriohq/TcpNotesDemo/NotesClient/obj/Debug/net8.0/NotesClient.GeneratedMSBuildEditorConfig.editorconfig
+/Users/liriohq/TcpNotesDemo/NotesClient/obj/Debug/net8.0/NotesClient.AssemblyInfoInputs.cache
+/Users/liriohq/TcpNotesDemo/NotesClient/obj/Debug/net8.0/NotesClient.AssemblyInfo.cs
+/Users/liriohq/TcpNotesDemo/NotesClient/obj/Debug/net8.0/NotesClient.csproj.CoreCompileInputs.cache
+/Users/liriohq/TcpNotesDemo/NotesClient/obj/Debug/net8.0/NotesClient.dll
+/Users/liriohq/TcpNotesDemo/NotesClient/obj/Debug/net8.0/refint/NotesClient.dll
+/Users/liriohq/TcpNotesDemo/NotesClient/obj/Debug/net8.0/NotesClient.pdb
+/Users/liriohq/TcpNotesDemo/NotesClient/obj/Debug/net8.0/NotesClient.genruntimeconfig.cache
+/Users/liriohq/TcpNotesDemo/NotesClient/obj/Debug/net8.0/ref/NotesClient.dll
